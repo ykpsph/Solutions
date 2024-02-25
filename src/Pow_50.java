@@ -1,4 +1,4 @@
-public class Pow {
+public class Pow_50 {
     public static void main(String[] args) {
         int x = 2;
         int n = 10;

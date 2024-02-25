@@ -1,4 +1,4 @@
-public class FactorialTrailingZeroes {
+public class FactorialTrailingZeroes_172 {
     public static void main(String[] args) {
         int num = 10;
 

@@ -1,4 +1,4 @@
-public class LongestCommonPrefix {
+public class LongestCommonPrefix_14 {
     public static void main(String[] args) {
         String[] strs = {"yako", "yapako"};
         System.out.println(lcp(strs));

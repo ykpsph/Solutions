@@ -1,4 +1,4 @@
-public class ReverseString344 {
+public class ReverseString_344 {
     public static void main(String[] args) {
         char[] ch = {'y', 'a', 'k', 'o'};
         reverseString(ch);
