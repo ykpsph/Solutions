@@ -29,3 +29,26 @@ public class ReversWordsInAString_151 {
         return sb.toString();
     }
 }
+
+/*
+- i = 14; sb = '';
+
+- s = "the sky is blue";
+                     i
+                     j
+- s = "the sky is blue";
+                 ik  j
+- sb = blue
+- s = "the sky is blue";
+              ikj
+- sb = blue_
+- sb = blue_is
+- s = "the sky is blue";
+          ik j
+- sb = blue_is_
+- sb = blue_is_sky
+- s = "the sky is blue";
+       ikj
+- sb = "blue_is_sky_the
+
+ */
